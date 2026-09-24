@@ -16,7 +16,7 @@
                 "-Wextra",
                 "-Wconversion",
                 "-Wsign-conversion",
-                // "-Werror",
+                "-Werror",
                 "-std=c++23",
                 "${file}",
                 "-o",
