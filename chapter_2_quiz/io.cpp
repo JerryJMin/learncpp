@@ -11,7 +11,3 @@ int read_number() {
 void write_answer(int n) {
     std::cout << "Your value is " << n << "\n";
 }
-
-int main() {
-    write_answer(read_number() + read_number());
-}

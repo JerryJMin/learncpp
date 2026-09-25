@@ -1,6 +1,7 @@
+#include "add.h"
 #include <iostream>
 
-int add(int, int);
+// int add(int, int);
 
 int main() {
     std::cout << add(2, 3) << '\n';
